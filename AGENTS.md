@@ -16,7 +16,7 @@ When the user says "clear my backlog", "process backlog", or similar:
 1. Read `BACKLOG.md` and extract every actionable item.
 2. Look through `Knowledge/` for context (matching keywords, project names, or dates).
 3. Use `process_backlog_with_dedup` to avoid creating duplicates.
-4. Ask only the questions necessary to resolve ambiguity.
+4. If an item lacks context, priority, or a clear next step, STOP and ask the user for clarification before creating the task.
 5. Create or update task files under `Tasks/` with complete metadata.
 6. Present a concise summary of new tasks, then clear `BACKLOG.md`.
 
