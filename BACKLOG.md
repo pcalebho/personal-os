@@ -12,3 +12,4 @@
 
 ## Personal
 - Buy some hangers from Amazon
+- Write Ruth a Christmas card
