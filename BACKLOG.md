@@ -9,3 +9,6 @@
 
 ## Operations / Facilities
 - Follow up with Roger from CBRE about a potential warehouse and factory space
+
+## Personal
+- Buy some hangers from Amazon
