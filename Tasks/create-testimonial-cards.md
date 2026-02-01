@@ -12,13 +12,13 @@ estimated_time: 60
 ## Context
 **Supports Goal:** Sales System (P0) - 1 panel/week velocity
 
-Build social proof on website. Blocked by testimonial sign-offs.
+Create testimonial cards with quotes you've written. Once complete, send to customers for sign-off. Blocks sign-off task.
 
 ## Next Actions
-- [ ] Wait for customer sign-offs
 - [ ] Design testimonial card layout
-- [ ] Add approved testimonials to website
+- [ ] Add your draft testimonials to cards
 - [ ] Test display on mobile/desktop
+- [ ] Prepare cards for customer review
 
 ## Progress Log
-- 2026-02-01: Task created, waiting on sign-offs
+- 2026-02-01: Task created, quotes already written

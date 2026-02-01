@@ -12,12 +12,14 @@ estimated_time: 30
 ## Context
 **Supports Goal:** Sales System (P0) - 1 panel/week velocity
 
-You've written testimonial quotes and need customer approval before publishing on website. Quick win that unblocks testimonial cards.
+Send completed testimonial cards to customers for approval. Blocked by card creation.
 
 ## Next Actions
-- [ ] Send text messages to all customers with their draft quotes
+- [ ] Wait for testimonial cards to be finished
+- [ ] Send cards/quotes to all customers via text
 - [ ] Get written approval from each
 - [ ] Track responses
+- [ ] Publish approved testimonials
 
 ## Progress Log
-- 2026-02-01: Task created, quotes already written
+- 2026-02-01: Task created, blocked by card creation
