@@ -6,10 +6,26 @@
 - Try writing 1-2 pieces personally to get a feel for what I like to do
 - Refactor website copy to be more specific to our ICP and target UL508 Type A panel customers
 - Write a blog post on SCCRs
+- Post on LinkedIn
+- Looking for potential interviews for great content
+- Think about different marketing channels worth pursuing
+
+## Sales
+- Sales outbound to help refine ICP
+
+## Hiring
+- Tweet and do LinkedIn prospecting for hires
+- Post prospecting and outbound for hires
+
+## Product
+- Start first step of AI prototype
 
 ## Operations / Facilities
 - Follow up with Roger from CBRE about a potential warehouse and factory space
 
+## Admin
+- Finish investor update (draft already done)
+
 ## Personal
 - Buy some hangers from Amazon
-- Write Ruth a Christmas card
+- Write Ruth a belated Christmas card
