@@ -23,6 +23,7 @@
 
 ## Operations / Facilities
 - Follow up with Roger from CBRE about a potential warehouse and factory space
+- Buy wire prep machine
 
 ## Admin
 - Finish investor update (draft already done)
