@@ -16,6 +16,7 @@
 ## Hiring
 - Tweet and do LinkedIn prospecting for hires
 - Post prospecting and outbound for hires
+- Explore YC co-founder matching and other co-founder platforms (for hires + potential co-founders)
 
 ## Product
 - Start first step of AI prototype
