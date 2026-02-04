@@ -1,6 +1,6 @@
 ---
 title: Message Connor Ryan on LinkedIn
-category: sales
+category: hiring
 priority: P1
 status: n
 created_date: 2026-02-04
@@ -11,7 +11,9 @@ estimated_time: 15
 # Message Connor Ryan on LinkedIn
 
 ## Context
-Outreach to Connor Ryan via LinkedIn. [Add context about who Connor is and why reaching out]
+**Supports Goal:** Hiring (P0) — Recruit 1 EE and 1 SWE
+
+Recruiting outreach to Connor Ryan on LinkedIn. Potential hire for Blitzpanel.
 
 ## Next Actions
 - [ ] Compose LinkedIn message to Connor Ryan
