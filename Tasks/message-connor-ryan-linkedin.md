@@ -13,7 +13,7 @@ estimated_time: 15
 ## Context
 **Supports Goal:** Hiring (P0) — Recruit 1 EE and 1 SWE
 
-Recruiting outreach to Connor Ryan on LinkedIn. Potential hire for Blitzpanel.
+Recruiting outreach to Connor Ryan on LinkedIn. Potential SWE hire for Blitzpanel.
 
 ## Next Actions
 - [ ] Compose LinkedIn message to Connor Ryan
