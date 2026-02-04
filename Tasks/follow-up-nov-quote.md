@@ -2,7 +2,7 @@
 title: Email follow-up for NOV quote
 category: sales
 priority: P0
-status: n
+status: d
 created_date: 2026-02-04
 estimated_time: 15
 ---
@@ -20,4 +20,4 @@ Follow up on quote sent to NOV. Check status, answer questions, push toward clos
 - [ ] Track response
 
 ## Progress Log
-- 2026-02-04: Task created
+- 2026-02-04: ✅ COMPLETED - Sent follow-up email to Jake Adkins
