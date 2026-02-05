@@ -3,18 +3,19 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 2 / 100 (2%)
+**Progress:** 3 / 100 (3%)
 
 ---
 
 ## Daily Log
 
 ### Feb 5, 2026 (Day 1)
-**Count:** 1
+**Count:** 3
 
 **Conversations:**
 - [X] 2026-02-05 | Warehouse/Logistics Company (name TBD) | Video call | Demo shown, interested in pre-built panels + design elimination. 12-20 panels/year. Follow up: quote + pitch to management
 - [X] 2026-02-05 | Mason Briggs (Control Associates Inc) | Call | Junior engineer, not decision maker. 15-yr shop relationship. Website attracted him. Low probability.
+- [X] 2026-02-05 | Grandfather (Control Associates Inc) | Call | 🔥 INSIGHT: Engineering time is bottleneck, not build speed. Values collaborative shops who fill design gaps. 4-6 panels/mo. Demo scheduled.
 
 **Non-customer intel (distributors/suppliers):**
 - Billy Danford (Reynolds) - SPA process, Texas Water Show tip
