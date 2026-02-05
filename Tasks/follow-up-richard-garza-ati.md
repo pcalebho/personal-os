@@ -2,7 +2,7 @@
 title: Follow up with Richard Garza (ATI)
 category: sales
 priority: P1
-status: n
+status: s
 created_date: 2026-02-05
 due_date: 2026-02-07
 estimated_time: 30

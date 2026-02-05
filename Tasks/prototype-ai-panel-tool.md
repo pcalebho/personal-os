@@ -15,6 +15,8 @@ estimated_time: 480
 First concrete step toward your moat. Prototype to learn and validate approach. CEO Spec strategy: explore to define, don't get bogged down in full implementation.
 
 ## Next Actions
+- [ ] **Find the first step** - what's the absolute first thing to do?
+- [ ] Do that first step
 - [ ] Define MVP scope (what's the smallest useful thing?)
 - [ ] Choose tools/framework (Claude API? Custom model?)
 - [ ] Build basic prototype
@@ -24,3 +26,4 @@ First concrete step toward your moat. Prototype to learn and validate approach. 
 
 ## Progress Log
 - 2026-02-01: Task created, "just go at it" approach
+- 2026-02-02: Updated with "find first step" approach - make it concrete
