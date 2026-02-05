@@ -4,7 +4,7 @@ category: sales
 priority: P0
 status: n
 created_date: 2026-02-05
-due_date: 2026-02-06
+due_date: 2026-02-07
 estimated_time: 20
 ---
 
@@ -30,3 +30,4 @@ estimated_time: 20
 
 ## Progress Log
 - 2026-02-05: Waitlist signup, added personal email to Pipedrive
+- 2026-02-04: Initial follow-up sent
