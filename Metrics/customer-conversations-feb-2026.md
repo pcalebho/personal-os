@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 1 / 100 (1%)
+**Progress:** 2 / 100 (2%)
 
 ---
 
@@ -14,6 +14,7 @@
 
 **Conversations:**
 - [X] 2026-02-05 | Warehouse/Logistics Company (name TBD) | Video call | Demo shown, interested in pre-built panels + design elimination. 12-20 panels/year. Follow up: quote + pitch to management
+- [X] 2026-02-05 | Mason Briggs (Control Associates Inc) | Call | Junior engineer, not decision maker. 15-yr shop relationship. Website attracted him. Low probability.
 
 **Non-customer intel (distributors/suppliers):**
 - Billy Danford (Reynolds) - SPA process, Texas Water Show tip
