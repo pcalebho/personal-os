@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 2 / 100 (2%)
+**Progress:** 1 / 100 (1%)
 
 ---
 
@@ -14,7 +14,9 @@
 
 **Conversations:**
 - [X] 2026-02-05 | Warehouse/Logistics Company (name TBD) | Video call | Demo shown, interested in pre-built panels + design elimination. 12-20 panels/year. Follow up: quote + pitch to management
-- [X] 2026-02-05 | Billy Danford (Reynolds Company) | Phone | Distributor partnership - SPA negotiation (~2mo), ABB focus, value-add specialists. Texas Water Show opportunity.
+
+**Non-customer intel (distributors/suppliers):**
+- Billy Danford (Reynolds) - SPA process, Texas Water Show tip
 
 ---
 
