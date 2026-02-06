@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 5 / 100 (5%)
+**Progress:** 6 / 100 (6%)
 
 ---
 
@@ -18,11 +18,12 @@
 - [X] 2026-02-05 | Grandfather (Control Associates Inc) | Call | 🔥 INSIGHT: Engineering time is bottleneck, not build speed. Values collaborative shops who fill design gaps. 4-6 panels/mo. Demo scheduled.
 
 ### Feb 6, 2026 (Day 2)
-**Count:** 2
+**Count:** 3
 
 **Conversations:**
 - [X] 2026-02-06 | Billy Danford (Reynolds Company) | Inbound call | Callback on SPA discussion. SPA ~2mo timeline. Fast quoting (1hr). Texas Water Show interest.
-- [X] 2026-02-06 | Richard Garza (ATI - Process Control Engineer II) | Call | 🔥 INSIGHT: Cross-team coordination + component lead times are the real bottleneck. Wrangling IO lists from different teams painful. Cost-driven vendor selection (unless deadline pressure). Will connect with colleague Jonathan for deeper conversation. (See Knowledge/richard-garza-ati-call-feb6.md)
+- [X] 2026-02-06 | Richard Garza (ATI - Process Control Engineer II) | Call | 🔥 INSIGHT: Cross-team coordination + component lead times are the real bottleneck. Wrangling IO lists from different teams painful. Cost-driven vendor selection (unless deadline pressure). Will connect with colleague Jonathan for deeper conversation.
+- [X] 2026-02-06 | Dylan Rose (American Terawatt) | Call | Power generation co entering data centers. Multi-level control panel architecture (pod/building/site). Component substitution + compliance complexity. Early stage, not ready for detailed specs yet. Will reconnect when ready. (See Knowledge/dylan-rose-american-terawatt-feb6.md)
 
 **Non-customer intel (distributors/suppliers):**
 - Billy Danford (Reynolds) - SPA process, Texas Water Show tip
