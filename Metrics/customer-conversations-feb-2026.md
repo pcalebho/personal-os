@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 3 / 100 (3%)
+**Progress:** 5 / 100 (5%)
 
 ---
 
@@ -16,6 +16,13 @@
 - [X] 2026-02-05 | Warehouse/Logistics Company (name TBD) | Video call | Demo shown, interested in pre-built panels + design elimination. 12-20 panels/year. Follow up: quote + pitch to management
 - [X] 2026-02-05 | Mason Briggs (Control Associates Inc) | Call | Junior engineer, not decision maker. 15-yr shop relationship. Website attracted him. Low probability.
 - [X] 2026-02-05 | Grandfather (Control Associates Inc) | Call | 🔥 INSIGHT: Engineering time is bottleneck, not build speed. Values collaborative shops who fill design gaps. 4-6 panels/mo. Demo scheduled.
+
+### Feb 6, 2026 (Day 2)
+**Count:** 2
+
+**Conversations:**
+- [X] 2026-02-06 | Billy Danford (Reynolds Company) | Inbound call | Callback on SPA discussion. SPA ~2mo timeline. Fast quoting (1hr). Texas Water Show interest.
+- [X] 2026-02-06 | Richard Garza (ATI - Process Control Engineer II) | Call | 🔥 INSIGHT: Cross-team coordination + component lead times are the real bottleneck. Wrangling IO lists from different teams painful. Cost-driven vendor selection (unless deadline pressure). Will connect with colleague Jonathan for deeper conversation. (See Knowledge/richard-garza-ati-call-feb6.md)
 
 **Non-customer intel (distributors/suppliers):**
 - Billy Danford (Reynolds) - SPA process, Texas Water Show tip
