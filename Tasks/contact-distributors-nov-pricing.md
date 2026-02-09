@@ -1,10 +1,10 @@
 ---
 title: Contact distributors for NOV component pricing
 category: sales
-priority: P1
+priority: P0
 status: n
 created_date: 2026-02-09
-due_date: 2026-02-12
+due_date: 2026-02-10
 estimated_time: 120
 ---
 
