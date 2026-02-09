@@ -2,7 +2,7 @@
 title: Follow up with Mason Briggs - Waitlist signup
 category: sales
 priority: P0
-status: n
+status: d
 created_date: 2026-02-05
 due_date: 2026-02-07
 estimated_time: 20

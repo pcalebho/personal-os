@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 9 / 100 (9%)
+**Progress:** 10 / 100 (10%)
 
 ---
 
@@ -18,11 +18,12 @@
 - [X] 2026-02-05 | Grandfather (Control Associates Inc) | Call | 🔥 INSIGHT: Engineering time is bottleneck, not build speed. Values collaborative shops who fill design gaps. 4-6 panels/mo. Demo scheduled.
 
 ### Feb 9, 2026 (Day 4)
-**Count:** 2
+**Count:** 3
 
 **Conversations:**
 - [X] 2026-02-09 | Guardian Industrial (Austin - panel shop) | Call | Overflow limited (just enough). All in-house builds, never outsource. Not partnership fit. Focus: motors, controls.
-- [X] 2026-02-09 | Tesla Team (Gigafactory Texas) | Call | 🔥 MAJOR: Bill Palmer (Controls Design Lead) + team. Demoed web app + component library. Currently vendor-locked, NDA required. Follow-up Feb 23-24 for competitive quote. Potential high-value OEM customer. (See Knowledge/tesla-gigafactory-feb9.md)
+- [X] 2026-02-09 | Tesla Team (Gigafactory Texas) | Call | 🔥 MAJOR: Bill Palmer (Controls Design Lead) + team. Demoed web app + component library. Currently vendor-locked, NDA required. Follow-up Feb 23-24 for competitive quote. Potential high-value OEM customer.
+- [X] 2026-02-09 | Fred (Denali AI - Warehouse/Logistics) | Call | 🔥 HOT: Warehouse systems OEM. 3-4 designs, 1,500+ panels 2025. Multi-sourcing to reduce risk. Want in-house design capability. Paid pilot: $600/yr vs Eplan $1,500. Follow-up Monday same time. NDA process, send design for review. (See Knowledge/fred-denali-ai-feb9.md)
 
 ### Feb 6, 2026 (Day 2)
 **Count:** 4
