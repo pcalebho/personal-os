@@ -3,7 +3,7 @@
 **Goal:** 100 customer conversations in 2 weeks  
 **Start:** Feb 5, 2026  
 **End:** Feb 19, 2026  
-**Progress:** 7 / 100 (7%)
+**Progress:** 8 / 100 (8%)
 
 ---
 
@@ -16,6 +16,12 @@
 - [X] 2026-02-05 | Santiago (Warehouse/Logistics Company) | Demo call | 🔥 HOT LEAD: No in-house panel design expertise. Currently outsources to cheapest bidder → panel shop redlines drawings. 3D viz + auto manufacturing instructions impressed. Wants pre-built enclosures (cutouts, trunking, DIN rail). 12-20 panels/year. Follow up: pitch to management. (See Knowledge/santiago-warehouse-logistics-feb5.md)
 - [X] 2026-02-05 | Mason Briggs (Control Associates Inc) | Call | Junior engineer, not decision maker. 15-yr shop relationship. Website attracted him. Low probability.
 - [X] 2026-02-05 | Grandfather (Control Associates Inc) | Call | 🔥 INSIGHT: Engineering time is bottleneck, not build speed. Values collaborative shops who fill design gaps. 4-6 panels/mo. Demo scheduled.
+
+### Feb 9, 2026 (Day 4)
+**Count:** 1
+
+**Conversations:**
+- [X] 2026-02-09 | Guardian Industrial (Austin - panel shop) | Call | Overflow overflow limited (just enough). All builds in-house, never outsource. Not a partnership fit, but good to know. Interested in line sheet for reference. Focus: electrical motors, motor controls. Portal pricing negotiable.
 
 ### Feb 6, 2026 (Day 2)
 **Count:** 4
