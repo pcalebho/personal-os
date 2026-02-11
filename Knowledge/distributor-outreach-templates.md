@@ -84,11 +84,11 @@ Caleb
 
 ### Opening (First 30 seconds)
 
-> "Hi, this is Caleb Ho. I run a UL 508A panel shop in Austin called Blitz Panel. I'm looking to set up a supplier account for industrial automation components - PLCs, drives, enclosures, that kind of thing. Who would I talk to about that?"
+> "Hi, this is Caleb Ho. I run a UL 508A panel shop in Austin called Blitz Panel. I've got a panel order I need to quote out, and I'm also looking to set up an ongoing supplier account. Who would I talk to about that?"
 
 **If transferred or reaching sales:**
 
-> "Hey [Name], Caleb Ho here - I run Blitz Panel, a control panel shop in Austin. We're growing and looking for a primary distributor partner. Do you have a few minutes?"
+> "Hey [Name], Caleb Ho here - I run Blitz Panel, a control panel shop in Austin. I've got a project I need to quote and I'm also looking for a primary distributor partner going forward. Do you have a few minutes?"
 
 ### Key Points to Cover
 
@@ -98,7 +98,8 @@ Caleb
    - "Currently doing about [X] panels per month"
 
 2. **State what you need:**
-   - "Looking for competitive pricing on automation components"
+   - "I've got a BOM I need quoted for a current project"
+   - "Also looking for competitive pricing on automation components going forward"
    - "Interested in your panel builder program if you have one"
    - "Need a distributor who can support quick turnarounds"
 
@@ -109,9 +110,10 @@ Caleb
    - "What brands do you carry for [PLCs/drives/enclosures]?"
 
 4. **Close with next step:**
-   - "Can I get set up with an account?"
+   - "Can I send over my BOM for a quote?"
+   - "What's your turnaround on quotes?"
+   - "Can I get set up with an account at the same time?"
    - "Would you send me a credit application?"
-   - "Can we schedule a call to go over a sample quote?"
 
 ### Handling Common Questions
 
