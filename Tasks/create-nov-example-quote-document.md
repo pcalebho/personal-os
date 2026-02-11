@@ -1,8 +1,7 @@
 ---
 title: Create detailed quote example for NOV (sample project)
 category: sales
-priority: P0
-status: n
+list_state: P0
 created_date: 2026-02-09
 due_date: 2026-02-14
 estimated_time: 480

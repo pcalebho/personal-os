@@ -1,11 +1,10 @@
 ---
 title: Research Austin engineering meetups
 category: hiring
-priority: P0
-status: d
+list_state: Done
 created_date: 2026-02-01
-estimated_time: 60
 due_date: 2026-02-05
+estimated_time: 60
 ---
 
 # Research Austin engineering meetups

@@ -1,11 +1,10 @@
 ---
 title: Draft contract/brief for wastewater case study - Katherine
 category: marketing
-priority: P0
-status: d
+list_state: Done
 created_date: 2026-02-02
-estimated_time: 90
 due_date: 2026-02-05
+estimated_time: 90
 ---
 
 # Draft contract/brief for wastewater case study - Katherine

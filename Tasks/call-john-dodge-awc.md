@@ -1,8 +1,7 @@
 ---
 title: Phone call follow-up - John Dodge (AWC)
 category: sales
-priority: P1
-status: n
+list_state: P1
 created_date: 2026-02-04
 due_date: 2026-02-07
 estimated_time: 30

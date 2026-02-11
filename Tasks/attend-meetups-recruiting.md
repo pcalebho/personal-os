@@ -1,8 +1,7 @@
 ---
 title: Schedule and attend meetups for recruiting
 category: hiring
-priority: P0
-status: n
+list_state: P0
 created_date: 2026-02-01
 estimated_time: 180
 ---

@@ -1,11 +1,10 @@
 ---
 title: Sign up for therapy
 category: personal
-priority: P0
-status: d
+list_state: Done
 created_date: 2026-02-02
-estimated_time: 60
 due_date: 2026-02-07
+estimated_time: 60
 ---
 
 # Sign up for therapy

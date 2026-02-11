@@ -1,8 +1,7 @@
 ---
 title: Debug Claude Code OOM issue + fix coding agent integration
 category: technical
-priority: P3
-status: n
+list_state: P3
 created_date: 2026-02-08
 due_date: null
 estimated_time: 120

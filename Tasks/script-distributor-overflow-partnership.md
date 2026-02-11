@@ -1,8 +1,7 @@
 ---
 title: Draft distributor call script (overflow/partnership angle)
 category: sales
-priority: P0
-status: d
+list_state: Done
 created_date: 2026-02-08
 due_date: 2026-02-08
 estimated_time: 30

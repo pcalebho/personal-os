@@ -1,8 +1,7 @@
 ---
 title: Series A prospecting - BuildList campaign
 category: sales
-priority: P0
-status: n
+list_state: P0
 created_date: 2026-02-04
 estimated_time: 120
 ---

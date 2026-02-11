@@ -1,8 +1,7 @@
 ---
 title: Set up Tailscale on clawdbot
 category: technical
-priority: P2
-status: d
+list_state: P2
 created_date: 2026-02-02
 estimated_time: 45
 ---

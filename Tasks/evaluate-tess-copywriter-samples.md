@@ -1,8 +1,7 @@
 ---
 title: Evaluate Tess's copywriting samples - proceed decision
 category: hiring
-priority: P1
-status: n
+list_state: P1
 created_date: 2026-02-04
 estimated_time: 60
 ---

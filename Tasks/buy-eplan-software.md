@@ -1,8 +1,7 @@
 ---
 title: Buy ePlan software + install
 category: technical
-priority: P0
-status: n
+list_state: P0
 created_date: 2026-02-03
 due_date: 2026-02-07
 estimated_time: 90

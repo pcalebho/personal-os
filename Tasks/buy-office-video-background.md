@@ -1,8 +1,7 @@
 ---
 title: Buy office/demo video background setup
 category: marketing
-priority: P2
-status: n
+list_state: P2
 created_date: 2026-02-09
 due_date: 2026-02-14
 estimated_time: 30
