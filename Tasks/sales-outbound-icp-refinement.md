@@ -1,8 +1,9 @@
 ---
 title: Sales outbound to refine ICP
 category: sales
-list_state: P0
+list_state: Done
 created_date: 2026-02-02
+order: 1
 due_date: 2026-02-05
 estimated_time: 120
 ---

@@ -3,6 +3,7 @@ title: Buy wire prep machine
 category: technical
 list_state: P2
 created_date: 2026-02-02
+order: 4
 estimated_time: 120
 ---
 

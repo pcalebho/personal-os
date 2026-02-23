@@ -1,8 +1,9 @@
 ---
 title: Door-to-door prospecting in Austin area
 category: sales
-list_state: P1
+list_state: Done
 created_date: 2026-02-02
+order: 5
 estimated_time: 240
 ---
 

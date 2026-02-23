@@ -1,8 +1,9 @@
 ---
 title: Phone call follow-up - Miguel Tijerina (Lonestar Electric)
 category: sales
-list_state: P1
+list_state: Done
 created_date: 2026-02-04
+order: 4
 due_date: 2026-02-07
 estimated_time: 30
 ---

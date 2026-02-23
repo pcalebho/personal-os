@@ -1,11 +1,10 @@
 ---
 title: Send one LinkedIn Post
 category: marketing
-list_state: P0
+list_state: P1
 created_date: 2026-02-10
-due_date: null
+order: 8
 estimated_time: 30
-resource_refs:
 ---
 
 # Send one LinkedIn Post

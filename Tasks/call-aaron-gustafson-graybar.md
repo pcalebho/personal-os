@@ -3,6 +3,7 @@ title: Phone call follow-up - Aaron Gustafson (Graybar)
 category: sales
 list_state: P1
 created_date: 2026-02-04
+order: 0
 due_date: 2026-02-07
 estimated_time: 30
 ---

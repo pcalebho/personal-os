@@ -1,8 +1,9 @@
 ---
 title: Outbound recruiting (ongoing)
 category: hiring
-list_state: P0
+list_state: P1
 created_date: 2026-02-01
+order: 7
 estimated_time: 120
 ---
 

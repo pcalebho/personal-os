@@ -1,11 +1,11 @@
 ---
 title: Call 10 distributors for NOV BOM quotes + overflow work
 category: sales
-list_state: P0
+list_state: P1
 created_date: 2026-02-10
+order: 3
 due_date: 2026-02-10
 estimated_time: 80
-resource_refs:
 ---
 
 # Call 10 distributors for NOV BOM quotes + overflow work

@@ -1,8 +1,9 @@
 ---
 title: Research Texas Water Show 2026 - booth strategy
 category: marketing
-list_state: P1
+list_state: P2
 created_date: 2026-02-05
+order: 6
 estimated_time: 60
 ---
 

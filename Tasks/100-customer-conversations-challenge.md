@@ -1,8 +1,9 @@
 ---
 title: 100 Customer Conversations in 2 Weeks Challenge
 category: sales
-list_state: P0
+list_state: P2
 created_date: 2026-02-05
+order: 1
 due_date: 2026-02-19
 estimated_time: 3000
 ---
