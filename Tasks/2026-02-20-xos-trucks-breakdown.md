@@ -1,32 +1,34 @@
 ---
-title: CONSOLIDATED - See "Quote breakdowns - Embrose Energy NOV + Xos Trucks"
+title: Xos Trucks spreadsheet breakdown (complex, time-consuming)
 category: sales
-list_state: Done
+list_state: P0
 created_date: 2026-02-19
-order: 99
-due_date: 2026-02-20
-estimated_time: 60
+order: 3
+due_date: 2026-02-26
+estimated_time: 180
 resource_refs:
   - Xos Trucks provided spreadsheet
 ---
 
-# Fill Out Xos Trucks Spreadsheet Breakdown
+# Xos Trucks Spreadsheet Breakdown
 
 ## Context
-Xos Trucks provided a spreadsheet with their requirements. Need to fill out the specifics (pricing, timeline, technical specs) and send back.
+Xos Trucks provided a spreadsheet with their requirements. This is a complex, time-consuming breakdown that requires detailed pricing, specs, and timeline planning.
 
 ## Next Actions
 - [ ] Open Xos Trucks spreadsheet
-- [ ] Fill in: panel specs, quantities, pricing breakdown
-- [ ] Add: lead times, delivery timeline
-- [ ] Review for completeness
+- [ ] Break down individual parts of the quote
+- [ ] Fill in: panel specs, quantities, pricing per line item
+- [ ] Add: lead times, delivery timeline, technical specs
+- [ ] Review for completeness and accuracy
 - [ ] Send completed spreadsheet back to Xos Trucks
 
 ## Details
 - Customer: Xos Trucks
-- Task: Fill their template spreadsheet with breakdown details
-- Format: Whatever format they provided
-- Priority: High, due tomorrow
+- Task: Detailed spreadsheet breakdown (high complexity)
+- Format: Their template
+- Priority: High, but complex work
 
 ## Progress Log
-- 2026-02-19: Task created. Have spreadsheet, need to populate
+- 2026-02-19: Task created
+- 2026-02-23: Marked as separate, complex task — allow 3 hours minimum

@@ -1,31 +1,31 @@
 ---
-title: Quote breakdowns - Embrose Energy NOV + Xos Trucks
+title: NOV quote - ping distributors + check missing BOM parts
 category: sales
 list_state: P0
 created_date: 2026-02-19
 order: 2
-due_date: 2026-02-23
-estimated_time: 120
+due_date: 2026-02-25
+estimated_time: 90
 resource_refs:
   - Embrose Energy call notes
-  - Xos Trucks spreadsheet
+  - NOV BOM
 ---
 
-# Quote Breakdowns (Embrose Energy + Xos Trucks)
+# NOV Quote - Distributor Outreach + Missing Parts Check
 
 ## Context
-Two customers need detailed quote breakdowns with line-item pricing, timeline, and specs.
-
-**Embrose Energy (ARCO NOV):** Follow-up action items from last call — need to compile quote breakdown details
-**Xos Trucks:** Provided spreadsheet template — need to populate with pricing, timeline, technical specs
+Embrose Energy (ARCO NOV) quote needs:
+1. Missing BOM parts identification (what hasn't been quoted yet)
+2. Distributor pings for pricing on those parts
+3. Complete quote breakdown with all line items
 
 ## Next Actions
-- [ ] Review Embrose Energy call notes for quote breakdown specifics
-- [ ] Open Xos Trucks spreadsheet
-- [ ] Fill in pricing breakdown for both
-- [ ] Add: lead times, delivery timeline, specs
-- [ ] Send completed breakdowns back to both customers
+- [ ] Review NOV BOM for missing/unquoted parts
+- [ ] Identify which distributors to contact for each missing part
+- [ ] Ping distributors for pricing
+- [ ] Compile complete quote breakdown
+- [ ] Send back to Embrose Energy
 
 ## Progress Log
-- 2026-02-19: Tasks created for both customers
-- 2026-02-23: Consolidate and complete both breakdowns
+- 2026-02-19: Task created
+- 2026-02-23: Refocus on distributor outreach + missing parts check
