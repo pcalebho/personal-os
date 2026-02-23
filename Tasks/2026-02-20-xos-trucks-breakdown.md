@@ -5,7 +5,7 @@ list_state: P0
 created_date: 2026-02-19
 order: 3
 due_date: 2026-02-26
-estimated_time: 180
+estimated_time: 270
 resource_refs:
   - Xos Trucks provided spreadsheet
 ---
